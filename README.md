@@ -1,8 +1,1 @@
-# shhm-app08
-
-
-world
-
-hhh
-=======
-hhh
+# shhm-app08 python
